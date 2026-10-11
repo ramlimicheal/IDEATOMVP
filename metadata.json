@@ -1,0 +1,8 @@
+{
+  "name": "Idea2MVP | Road to $2M",
+  "description": "A multi-agent AI system powered by Gemini to validate startup ideas, analyze markets, and generate comprehensive PRDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
